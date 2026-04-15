@@ -1,0 +1,26 @@
+# Original dependencies
+streamlit
+torch
+transformers
+datasets
+scikit-learn
+numpy
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# API
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Data processing
+pandas>=2.0.0
+
+# Spotify
+spotipy>=2.23.0
+
+# General
+requests>=2.31.0
+tqdm>=4.65.0
+accelerate>=0.24.0
